@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/encoding/mvt/vectortile"
-	"github.com/paulmach/orb/geojson"
+	"github.com/dadadamarine/orb"
+	"github.com/dadadamarine/orb/encoding/mvt/vectortile"
+	"github.com/dadadamarine/orb/geojson"
 	"github.com/paulmach/protoscan"
 )
 

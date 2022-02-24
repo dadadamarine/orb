@@ -3,9 +3,9 @@ package mvt
 import (
 	"testing"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/geojson"
-	"github.com/paulmach/orb/simplify"
+	"github.com/dadadamarine/orb"
+	"github.com/dadadamarine/orb/geojson"
+	"github.com/dadadamarine/orb/simplify"
 )
 
 func TestLayerSimplify(t *testing.T) {

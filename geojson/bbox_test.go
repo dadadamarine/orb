@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/paulmach/orb"
+	"github.com/dadadamarine/orb"
 )
 
 func TestBBox(t *testing.T) {

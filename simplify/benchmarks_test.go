@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/planar"
+	"github.com/dadadamarine/orb"
+	"github.com/dadadamarine/orb/planar"
 )
 
 func TestDouglasPeucker_BenchmarkData(t *testing.T) {

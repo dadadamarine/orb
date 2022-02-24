@@ -1,6 +1,6 @@
 package quadtree
 
-import "github.com/paulmach/orb"
+import "github.com/dadadamarine/orb"
 
 // maxHeap is used for the knearest list. We need a way to maintain
 // the furthest point from the query point in the list, hence maxHeap.

@@ -3,7 +3,7 @@ package geo_test
 import (
 	"fmt"
 
-	"github.com/paulmach/orb"
+	"github.com/dadadamarine/orb"
 	"github.com/paulmach/orb/geo"
 )
 

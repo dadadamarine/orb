@@ -1,7 +1,7 @@
 package geo
 
 import (
-	"github.com/paulmach/orb"
+	"github.com/dadadamarine/orb"
 	"github.com/paulmach/orb/internal/length"
 )
 

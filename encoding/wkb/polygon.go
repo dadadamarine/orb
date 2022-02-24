@@ -5,7 +5,7 @@ import (
 	"io"
 	"math"
 
-	"github.com/paulmach/orb"
+	"github.com/dadadamarine/orb"
 )
 
 func unmarshalPolygon(order byteOrder, data []byte) (orb.Polygon, error) {
